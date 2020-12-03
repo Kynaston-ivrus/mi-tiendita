@@ -1,0 +1,28 @@
+#btnControlPaginador {
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+	
+	background-color: #F2F2F2;
+    color: black;
+    border: 0px solid #435d7d; 
+	border-radius: 5px;
+
+}
+	
+#btnControlPaginador:hover {
+    background-color: #435d7d; 
+    color: white;
+	cursor: pointer;
+}
+	
+#pgActual {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bolder;
+	color: #4CAF50;	
+}
